@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('https://html.sqlsec.com/bilibili.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 23px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bilibili-fill:before {
+  content: "\e69c";
+}
+
